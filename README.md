@@ -121,6 +121,6 @@ Talha Faraz
 
 Computer Science & Engineering (Artificial Intelligence)
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Talha-Faraz
 LinkedIn: https://www.linkedin.com/in/talhafaraz
 
